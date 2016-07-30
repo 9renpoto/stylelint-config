@@ -4,7 +4,8 @@
   "description": "@9renpoto stylelint config",
   "main": "index.js",
   "scripts": {
-    "test": "stylelint \"src/*.css\""
+    "test": "stylelint \"src/*.css\"",
+    "postpublish": "greenkeeper-postpublish"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
     "stylelint-config-standard": "^11.0.0"
   },
   "devDependencies": {
+    "greenkeeper-postpublish": "^1.0.0",
     "stylelint": "^7.0.3"
   }
 }
