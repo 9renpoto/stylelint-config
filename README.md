@@ -2,6 +2,19 @@
 
 [![Travis Build Status][travis-image]][travis-url] [![Dependency Status][david-dm-image]][david-dm-url] [![devDependency Status][dev-david-dm-image]][dev-david-dm-url]
 
+## SETUP
+
+```sh
+npm i stylelint @9renpoto/stylelint-config -D
+```
+
+```js
+// .stylelintrc.js
+module.exports = {
+  "extends": "@9renpoto/stylelint-config"
+}
+```
+
 ## LICENSE
 
 MIT
