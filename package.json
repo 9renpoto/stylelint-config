@@ -1,7 +1,7 @@
 {
   "name": "@9renpoto/stylelint-config",
   "description": "@9renpoto stylelint config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "@9renpoto",
   "bugs": {
     "url": "https://github.com/9renpoto/stylelint-config/pulls"
@@ -26,6 +26,6 @@
   },
   "scripts": {
     "postpublish": "greenkeeper-postpublish",
-    "test": "stylelint \"src/*.css\""
+    "test": "stylelint \"examples/*.css\""
   }
 }
