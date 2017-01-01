@@ -1,27 +1,31 @@
 {
   "name": "@9renpoto/stylelint-config",
-  "version": "1.1.0",
   "description": "@9renpoto stylelint config",
-  "main": "index.js",
-  "scripts": {
-    "test": "stylelint \"src/*.css\"",
-    "postpublish": "greenkeeper-postpublish"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/9renpoto/stylelint-config.git"
-  },
-  "keywords": [
-    "stylelint-config"
-  ],
+  "version": "1.1.0",
   "author": "@9renpoto",
-  "license": "MIT",
-  "homepage": "https://github.com/9renpoto/stylelint-config#readme",
+  "bugs": {
+    "url": "https://github.com/9renpoto/stylelint-config/pulls"
+  },
   "dependencies": {
     "stylelint-config-standard": "^15.0.0"
   },
   "devDependencies": {
     "greenkeeper-postpublish": "^1.0.0",
+    "stylefmt": "^5.0.3",
     "stylelint": "^7.0.3"
+  },
+  "homepage": "https://github.com/9renpoto/stylelint-config#readme",
+  "keywords": [
+    "stylelint-config"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/9renpoto/stylelint-config.git"
+  },
+  "scripts": {
+    "postpublish": "greenkeeper-postpublish",
+    "test": "stylelint \"src/*.css\""
   }
 }
