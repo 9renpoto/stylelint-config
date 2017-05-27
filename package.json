@@ -10,7 +10,7 @@
     "stylelint-config-standard": "^16.0.0"
   },
   "devDependencies": {
-    "stylefmt": "^5.1.2",
+    "stylefmt": "^6.0.0",
     "stylelint": "^7.0.3"
   },
   "homepage": "https://github.com/9renpoto/stylelint-config#readme",
