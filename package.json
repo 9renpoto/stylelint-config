@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "stylefmt": "^6.0.0",
-    "stylelint": "^7.0.3"
+    "stylelint": "^7.11.1"
   },
   "homepage": "https://github.com/9renpoto/stylelint-config#readme",
   "keywords": [
@@ -20,7 +20,7 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "stylelint": "^7.0.3"
+    "stylelint": "7.x"
   },
   "repository": {
     "type": "git",
