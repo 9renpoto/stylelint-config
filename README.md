@@ -1,8 +1,6 @@
 # @9renpoto/stylelint-config
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/9renpoto/stylelint-config.svg)](https://greenkeeper.io/)
-
-[![NPM version][npm-image]][npm-url] [![Travis Build Status][travis-image]][travis-url] [![Dependency Status][david-dm-image]][david-dm-url] [![devDependency Status][dev-david-dm-image]][dev-david-dm-url]
+[![NPM version][npm-image]][npm-url] [![Travis Build Status][travis-image]][travis-url] [![Dependency Status][david-dm-image]][david-dm-url] [![devDependency Status][dev-david-dm-image]][dev-david-dm-url] [![Greenkeeper badge][gp-image]][gp-url]
 
 ## SETUP
 
@@ -21,6 +19,8 @@ module.exports = {
 
 MIT
 
+[gp-image]: https://badges.greenkeeper.io/9renpoto/stylelint-config.svg
+[gp-url]: https://greenkeeper.io/
 [npm-image]: https://badge.fury.io/js/%409renpoto%2Fstylelint-config.svg
 [npm-url]: https://badge.fury.io/js/%409renpoto%2Fstylelint-config
 [david-dm-image]: https://david-dm.org/9renpoto/stylelint-config.svg
