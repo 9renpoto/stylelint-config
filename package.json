@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "stylefmt": "^6.0.0",
-    "stylelint": "^7.11.1"
+    "stylelint": "^8.0.0"
   },
   "homepage": "https://github.com/9renpoto/stylelint-config#readme",
   "keywords": [
